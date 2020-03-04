@@ -1,0 +1,11 @@
+{
+	"browserName": "BrowserStack",
+	"platform":"ANY",
+	"bstack:options":{"deviceName": "Samsung Galaxy S8 Plus",
+					  "osVersion": "9.0",
+					  "realMobile": "true",
+					  "projectName": "zalenium",
+					  "buildName": "My First Build",
+					  "sessionName": "bs_Zalenium"
+					 }
+} 
