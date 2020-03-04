@@ -70,3 +70,5 @@ target/
 /.settings
 
 video-samsung_s7_9
+/.apt_generated/
+/.apt_generated_tests/
