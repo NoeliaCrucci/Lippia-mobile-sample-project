@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Lippia-mobile-example-project</artifactId>
+    <artifactId>FinalExam-Mobile-NCrucci</artifactId>
     <url>http://maven.apache.org</url>
     <packaging>jar</packaging>
-    <name>Lippia-mobile-example-project</name>
+    <name>FinalExam-Mobile-NCrucci</name>
     <version>1.0.0</version>
 
     <parent>
@@ -37,9 +37,9 @@
             <properties>
                 <crowdar.gridhub>http://127.0.0.1:4723/wd/hub</crowdar.gridhub>
                 <cucumber.runner>testng.xml</cucumber.runner>
-                <crowdar.avd>Pixel3</crowdar.avd>
-                <crowdar.appLocation>C:\\\\workspace\\\\crowdar\\\\Lippia-mobile-sample-project\\\\sample_apk\\\\lippia.apk</crowdar.appLocation>
-                <crowdar.deviceName>Pixel3</crowdar.deviceName>
+                <crowdar.avd>Pixel_3a</crowdar.avd>
+                <crowdar.appLocation>/home/noe/Dev/CursoAutomation/Examen Final/EjercicioMobile/Lippia-mobile-sample-project/sample_apk/phptravelsnative.apk</crowdar.appLocation>
+                <crowdar.deviceName>Pixel_3a</crowdar.deviceName>
             </properties>
         </profile>
         <profile>
