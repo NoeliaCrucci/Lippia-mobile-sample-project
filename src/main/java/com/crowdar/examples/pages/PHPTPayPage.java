@@ -42,7 +42,7 @@ public class PHPTPayPage extends PageBaseMobile {
 	}
 
 	public void clickContinueBtn() {
-		super.scrollToElementByAccessibilityId("com.phptravelsnative:id/continue_booking");
+		//super.scrollToElementByAccessibilityId("com.phptravelsnative:id/continue_booking");
 		clickElement(By.xpath(CONTINUE_BTN_XPATH));	
 	}
 
